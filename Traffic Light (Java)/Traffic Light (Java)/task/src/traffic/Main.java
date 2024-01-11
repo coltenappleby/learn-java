@@ -1,8 +1,6 @@
 package traffic;
 
-import java.sql.Array;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Main {
@@ -14,11 +12,17 @@ public class Main {
     System.out.println("Input the number of roads:");
     System.out.println("Input the interval:");
     String menu = "Menu: \n" +
-            "1. Add oad\n" +
-            "2. Delete road" +
-            "3. Open system\"" +
+            "1. Add road\n" +
+            "2. Delete road\n" +
+            "3. Open system\n" +
             "0. Quit";
+
     System.out.println(menu);
+
+    String input = null;
+    while(!Objects.equals(input, "0")){
+      input = scanner.nextLine();
+      System.out.println(input);
     }
   }
 }
