@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Break_and_continue._Branching-Print_multiples_while_skipping_squares_and_limiting_to_100" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Traffic Light (Java)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int n = scanner.nextInt();
+      
+              // Start your code from here
+              // You just got the input as 'n'. Now start writing your logic
+      
+              // Hint : Find the multiple, Check if it's a perfect square, If it is a square, skip and proceed to next
+      
+              // Remember to stop when the multiple is greater than 100
+          }
+      
+          // Declare a function to check if a number is perfect square or not
+          public static boolean isPerfectSquare(int number) {
+              // ...
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41209#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 13 Jan 2024 20:38:32 UTC"
+record: -1
+submission_language: java17

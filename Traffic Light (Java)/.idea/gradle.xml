@@ -11,6 +11,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Excluding a specific number in loop output" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Input Validation" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Print multiples while skipping squares and limiting to 100" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Completing a code to display a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Find a way" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Fixing the greeting message compiler error" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/We need to learn Java" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
             <option value="$PROJECT_DIR$/Traffic Light (Java)/task" />
             <option value="$PROJECT_DIR$/Traffic Light (Java)/task/build/classes/java" />
             <option value="$PROJECT_DIR$/Traffic Light (Java)/task/build/generated/sources/annotationProcessor/java" />
