@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TrafficLightTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-11T03:14:07" hostname="Coltens-MacBook-Pro-13.local" time="0.086">
+<testsuite name="TrafficLightTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-15T01:07:47" hostname="Coltens-MacBook-Pro-13.local" time="0.238">
   <properties/>
-  <testcase name="start" classname="TrafficLightTest" time="0.086"/>
+  <testcase name="start" classname="TrafficLightTest" time="0.238"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Welcome to the traffic management system!

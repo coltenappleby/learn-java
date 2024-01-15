@@ -13,6 +13,10 @@
       <module name="Traffic_Light_(Java).Topics-Printing_data-Fixing_the_greeting_message_compiler_error.main" target="11" />
       <module name="Traffic_Light_(Java).Topics-Printing_data-Theory.main" target="11" />
       <module name="Traffic_Light_(Java).Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="Traffic_Light_(Java).Topics-String-Calling_basic_methods.main" target="11" />
+      <module name="Traffic_Light_(Java).Topics-String-Comparing_strings_ignoring_whitespaces.main" target="11" />
+      <module name="Traffic_Light_(Java).Topics-String-Extracting_a_character.main" target="11" />
+      <module name="Traffic_Light_(Java).Topics-String-Theory.main" target="11" />
       <module name="Traffic_Light_(Java).Topics-Types_and_variables-Assignments.main" target="11" />
       <module name="Traffic_Light_(Java).Topics-Types_and_variables-Theory.main" target="11" />
       <module name="Traffic_Light_(Java).Traffic_Light__Java_-task-build-classes-java.main" target="11" />
