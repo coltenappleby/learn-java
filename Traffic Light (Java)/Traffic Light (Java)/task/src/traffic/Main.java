@@ -1,22 +1,43 @@
 package traffic;
 
-import java.sql.Array;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Objects;
+import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args){
 
-    List<String> options = new ArrayList<>();
-    options.add("1. Add");
-    options.add("2. Delete");
-    options.add("3. System");
-    options.add("0. Quit");
+    Scanner scanner = new Scanner(System.in);
 
     System.out.println("Welcome to the traffic management system!");
-    System.out.println("Menu:");
-    for (String option : options) {
-      System.out.println(option);
+    System.out.println("Input the number of roads:");
+    int numRoads = scanner.nextInt();
+    System.out.println("Input the interval:");
+    int interval = scanner.nextInt();
+    String menu = "Menu: \n" +
+            "1. Add road\n" +
+            "2. Delete road\n" +
+            "3. Open system\n" +
+            "0. Quit";
+
+
+
+    while(true){
+      System.out.println(menu);
+      int input = scanner.nextInt();
+      if(input == 0){
+        System.out.println("Bye!");
+        break;
+      }
+      if(input == 1){
+        System.out.println("Road added");
+      } else if (input == 2) {
+        System.out.println("Road deleted");
+      } else if (input == 3) {
+        System.out.println("System opened");
+      } else {
+        System.out.println("Bye!");
+        break;
+      }
     }
   }
 }
